@@ -1,0 +1,1 @@
+{"vote_candidate_phone": "87770736981","vote_candidate_password": "leopoldfitz","voter_id": 1,"nomination_id": 2}
